@@ -4,4 +4,5 @@ Repositório contendo projetos desenvolvidos durante a cadeira de Programação 
 Os projetos abordam conceitos fundamentais da programação e buscam resolver problemas diversos com a linguagem C. Cada projeto foi desenvolvido para consolidar o aprendizado e aplicar boas práticas de programação.
 <h2>Tecnologias Utilizadas </h2>
 Linguagem: C
+<br>
 Ambiente de desenvolvimento: Dev-C++.
